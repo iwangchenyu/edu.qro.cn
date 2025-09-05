@@ -124,5 +124,6 @@ python -m http.server 8080
 ---
 
 **项目完成时间：** 2025年9月1日  
-**制作工具：** Qoder AI编程助手  
+edu.qro.cn
+
 **技术栈：** HTML5 + CSS3 + JavaScript + jQuery
